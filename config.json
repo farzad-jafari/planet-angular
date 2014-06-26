@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "mikeal": {
+      "feed": "http://www.mikealrogers.com/site.rss",
+      "author": "Mikeal Rogers",
+      "link": "http://blog.angularjs.org/"
+    }
+    
+  }
+}
