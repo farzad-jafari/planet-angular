@@ -1,9 +1,34 @@
 {
   "sites": {
-    "mikeal": {
-      "feed": "http://www.mikealrogers.com/site.rss",
-      "author": "Mikeal Rogers",
-      "link": "http://blog.angularjs.org/"
+    "AngularJS Daily": {
+      "feed": "http://www.angularjsdaily.com/~api/papers/b172848e-2741-468a-b631-2a6fb575b197/rss",
+      "author": "AngularJS Daily",
+      "link": "http://www.angularjsdaily.com/"
+    },
+    "Angular-tips": {
+      "feed": "http://angular-tips.com/atom.xml",
+      "author": "Angular-Tips",
+      "link": "http://angular-tips.com/"
+    },
+    "Revolunet Blog": {
+      "feed": "http://blog.revolunet.com/atom.xml",
+      "author": "Revolunet Blog",
+      "link": "http://blog.revolunet.com/"
+    },
+    "YearOfMoo": {
+      "feed": "http://yearofmoo.com/feed.xml",
+      "author": "Year of Moo",
+      "link": "http://yearofmoo.com/"
+    },
+    "Lullabot": {
+      "feed": "http://lullabot.com/rss.xml",
+      "author": "lullabot",
+      "link": "http://lullabot.com/"
+    },
+    "BriantFord": {
+      "feed": "http://briantford.com/blog.rss",
+      "author": "Briant Ford",
+      "link": "http://briantford.com/"
     }
     
   }
