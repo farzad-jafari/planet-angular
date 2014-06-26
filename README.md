@@ -1,4 +1,4 @@
-Planet Node
+PlanetAngularJS
 ===========
 
 This is the source code for Planet Node
