@@ -143,7 +143,7 @@ h2.post-title {
     color: #606060;
 }
 .post-title a:hover {
-    color: #8fc84c;
+    opacity: .7;
 }
 .section-title-wrapper {
     text-align: center;
