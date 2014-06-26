@@ -1,7 +1,7 @@
 PlanetAngularJS
 ===========
 
-This is the source code for Planet Node
+This is the source code for PlanetAngularJS
 
 To run this on your own machine*:
 
