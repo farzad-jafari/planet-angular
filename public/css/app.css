@@ -56,7 +56,7 @@ hr{
 .logo {
     font-family: 'Open Sans', sans-serif;
     margin-top: 15px;
-    background-image: url('/images/planetnodejs-logo.svg');
+    /*background-image: url('/images/planetnodejs-logo.svg');*/
     background-repeat: no-repeat;
     padding-left: 105px;
     color: white;
@@ -226,7 +226,7 @@ html, body {
     .logo{
         font-family: 'Open Sans', sans-serif;
         margin-top: 15px;
-        background-image: url('/images/planetnodejs-logo.svg');
+        /*background-image: url('/images/planetnodejs-logo.svg');*/
         background-repeat: no-repeat;
         padding-left: 80px;
         color: white;
