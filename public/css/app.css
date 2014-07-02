@@ -180,7 +180,7 @@ html, body {
     height: 205px;
 }
 .footer {position: relative;
-    margin-top: -205px; /* negative value of footer height */
+    margin-top: -180px; /* negative value of footer height */
     height: 150px;
     clear:both;} 
 
