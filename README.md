@@ -12,7 +12,7 @@ __1. Install Dependencies__
 
 __2. Start the database dameon__
 
-    cd planet
+    cd planet-angular
     mkdir data
     mongod --dbpath data
 
